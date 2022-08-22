@@ -156,7 +156,7 @@ Output: 3
 
 ```Python
 Input: [5,6,7,8], 0, 3
-Output: 5
+Output: 6
 ```
 
 **Example 2:**
@@ -178,7 +178,7 @@ Output: 7
 
 ```Python
 Input: [1, 2, 3, 4, 5], 0, 4
-Output: 6
+Output: 4
 
 ```
 
